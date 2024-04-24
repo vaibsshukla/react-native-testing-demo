@@ -1,0 +1,10 @@
+tapOn:
+  id: AppSwitcherContentView
+tapOn: Counter
+tapOn: Decrement
+tapOn: Increment
+tapOn: Home, back
+tapOn: Login
+tapOn: Username
+tapOn: Password
+tapOn: Submit

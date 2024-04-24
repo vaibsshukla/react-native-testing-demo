@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "types": [
+      "@testing-library/jest-native",
+      "jest"
+    ]
+  },
+  "allowJs": true
+}
